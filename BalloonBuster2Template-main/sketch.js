@@ -97,9 +97,9 @@ function draw() {
        //destroy bow
        bow.destroy();
        //reset the background
-       if (scene.x < 0){
-          scene.x = scene.width/2;
-          }
+      // if (scene.x < 0){
+          //scene.x = scene.width/2;
+        //  }
       // //moving bow
       // bow.y = World.mouseY      
        //stop background movement
